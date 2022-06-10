@@ -98,3 +98,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias agg="alias | grep "
+export PATH="/home/s/.local/bin:$PATH"
